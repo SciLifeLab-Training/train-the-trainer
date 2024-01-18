@@ -1,0 +1,6 @@
+title: Train-the-Trainer
+description: Training Hub Workshop
+repository: SciLifeLab-Training/train-the-trainer
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
