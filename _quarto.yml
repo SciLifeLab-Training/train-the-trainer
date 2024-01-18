@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ##add instance folder here
+  output-dir: "2403"
 
 website:
   title: "train-the-trainer"
