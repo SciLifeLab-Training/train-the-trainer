@@ -39,9 +39,9 @@ jobs:
           printenv
           sed --version
       - name: Set up Quarto
-          uses: quarto-dev/quarto-actions/setup@v2
-          with:
-            version: 1.3.340
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.3.340
       - name: Render site, pull repo, copy folder, create index, push repo
         run: |
           # Add git info
