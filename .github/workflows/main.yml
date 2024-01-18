@@ -47,7 +47,7 @@ jobs:
           # Add git info
           git config --global user.email "do_not_email@example.com"
           git config --global user.name "gh_action"
-          git config --global url."https://${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "https://github.com/"
+          git config --global url."https://${{ secrets.TOKEN }}@github.com/".insteadOf "https://github.com/"
 
           # Render website
           echo "Rendering qmd files ..."
@@ -63,7 +63,7 @@ jobs:
 
           # Clone gh-pages branch and remove old directories with same name
           echo "Clone into tmprepo"
-          git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
+          git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
 
           cd tmprepo
           if [ -d ${PATH_EXPORT} ]; then
@@ -103,7 +103,7 @@ jobs:
           ls -lh
 
           # Push changes back
-          echo "Push changes, github repo: ${{secrets.GITHUB_TOKEN}}"
+          echo "Push changes, github repo: ${{secrets.TOKEN}}"
           git add .
           git commit -m "Updated contents at $(date +%Y%m%d-%H%M%S)"
           git push origin
