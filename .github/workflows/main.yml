@@ -47,6 +47,7 @@ jobs:
           # Add git info
           git config --global user.email "do_not_email@example.com"
           git config --global user.name "gh_action"
+          git config --global url."https://${{ secrets.GITHUB_TOKEN }}@github.com/".insteadOf "https://github.com/"
 
           # Render website
           echo "Rendering qmd files ..."
@@ -62,6 +63,7 @@ jobs:
 
           # Clone gh-pages branch and remove old directories with same name
           git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
+          
           cd tmprepo
           if [ -d ${PATH_EXPORT} ]; then
             echo "Directory ${PATH_EXPORT} already exists. Removing the directory."
