@@ -1,0 +1,15 @@
+## put stuff from docker.yml exept docker lines
+
+render webstie
+
+replace docker with quarto render
+
+don't need publish.yml
+
+
+
+one called _config.yml in gh-pages branch for jekyll to build
+
+Secrets and variables - add token
+
+Variables are set from the github_env in .yml file
