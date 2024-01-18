@@ -103,7 +103,7 @@ jobs:
           ls -lh
 
           # Push changes back
-          echo "Push changes, github repo: ${ secrets.GITHUB_TOKEN }"
+          echo "Push changes, github repo: ${{secrets.GITHUB_TOKEN}}"
           git add .
           git commit -m "Updated contents at $(date +%Y%m%d-%H%M%S)"
           git push origin
