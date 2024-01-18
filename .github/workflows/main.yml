@@ -38,6 +38,10 @@ jobs:
           echo "---------------------------------------------------------------------------------------------"
           printenv
           sed --version
+      - name: Set up Quarto environment
+        run: |
+          # Install Quarto
+          curl -sS https://quarto.org/install | bash
       - name: Render site, pull repo, copy folder, create index, push repo
         run: |
           # Add git info
