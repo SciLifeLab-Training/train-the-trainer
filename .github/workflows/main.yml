@@ -62,8 +62,9 @@ jobs:
           ls -lh ${PATH_REPO}/${PATH_EXPORT}
 
           # Clone gh-pages branch and remove old directories with same name
+          echo "Clone into tmprepo"
           git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
-          
+
           cd tmprepo
           if [ -d ${PATH_EXPORT} ]; then
             echo "Directory ${PATH_EXPORT} already exists. Removing the directory."
@@ -78,6 +79,7 @@ jobs:
           ls -lh
 
           # create index file
+           echo "Create index file"
           printf "The current and all previous instances of this workshop are listed below.\n" >> index.md
           printf "<hr>\n" >> index.md
           printf "<div class='workshop-list'>\n" >> index.md
@@ -101,6 +103,7 @@ jobs:
           ls -lh
 
           # Push changes back
+          echo "Push changes"
           git add .
           git commit -m "Updated contents at $(date +%Y%m%d-%H%M%S)"
           git push origin
