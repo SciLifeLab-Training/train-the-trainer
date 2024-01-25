@@ -1,5 +1,66 @@
 ---
-title: "train-the-trainer"
+title: "Train-the-trainer"
 ---
 
-This is our Train the Trainer course
+This course offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. This course will cover the following topics:
+
+- Learning principles and how they apply to training and teaching
+- Design and plan session, course, materials
+- Teaching techniques to enhance learner engagement and participation
+- Assessment and feedback in training and teaching
+- Creating and maintaining engagement
+
+
+**Course dates are: April 10, April 17, April 24 and May 2, held from 12:30-16:30 each day**
+
+This course will be delivered through Zoom and Canvas, which is a learning management system. You can find a link to the course pages below.
+
+
+**Notes:**
+
+The course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.
+
+- There are no fees for this course.
+- All are welcome to participate.
+
+## Learning Objectives and Learning Outcomes
+#### Learning Objectives
+
+- To get acquainted with Learning principles and how they apply to training
+- To be able to select and use training techniques that can help enhance learner engagement and participation
+- To learn how to use assessment and feedback in training
+- To learn about session, course, and materials design as well as strategies for making learning engaging
+
+#### Learning Outcomes
+
+By the end of this course, learners will be able to:
+
+- Name learning principles that a good teacher/instructor should have in mind
+- Describe at least three training techniques, drawing on learning principles
+- Design a training session and a course
+- Develop assessment questionnaires
+- Enumerate types of materials needed for each part of a training session or course
+- Describe strategies to promote engagement amongst learners
+
+#### Target Audience
+
+This course is directed towards anyone who is interested in becoming a trainer/instructor, or improving your training skills.
+
+## Prerequisites
+#### Entry requirements
+
+This course is directed towards anyone who is interested in becoming a trainer/instructor, or improving your training skills. If you have questions like the following ones, this course may be very helpful to you.
+
+- How learning works?
+- How do I use learning principles and theories to improve my teaching/training?
+- How do I make my teaching/training more engaging and effective?
+- How should I adjust my teaching/training to different types of learners?
+- How do I ensure learning progress?
+- How can I assess whether my students are actually understanding my lessons? 
+- Are they actually learning?
+- What is the best balance between theory and practice?
+- How can I best assess whether learning is occurring and/or has occurred?
+- What works in a classroom and what doesn’t?
+
+
+Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria: Priority will be given to applicants from SciLifeLab infrastructures, institutes and organizations across the Nordic research community, and to participants from Nordic ELIXIR nodes.
