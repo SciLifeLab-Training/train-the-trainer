@@ -16,6 +16,8 @@ date: today
 
 {{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
 
+Description of video coming soon
+
 ## Materials
 
 ## Authors

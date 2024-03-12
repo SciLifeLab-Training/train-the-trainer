@@ -1,7 +1,7 @@
 ---
 title: "Course announcement"
 author: "Jill Jaworski, Jessica Lindvall, Nina Norgren, Kristen Schroeder & Cat Halthur"
-date: April 10, April 17, April 24 and May 2, held from 12:30-16:30 each day over Zoom
+date: today
 ---
 
 This course offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. This course will cover the following topics:
