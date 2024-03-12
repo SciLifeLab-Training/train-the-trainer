@@ -1,5 +1,7 @@
 ---
-title: "Train-the-trainer"
+title: "Course announcement"
+author: "John Doe"
+date: today
 ---
 
 This course offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. This course will cover the following topics:
