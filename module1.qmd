@@ -1,25 +1,53 @@
 ---
-title: "Module 1"
-author: "John Doe"
+title: "Module 1 - Principles of Teaching and Learning"
+author: "Jill Jaworski"
 date: today
 ---
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- List course learning objectives here.
-- These describe concepts the learners should grasp and techniques they should be able to use by the end of the course.
-- You can think of these as completing the phrase "after this course, the participant should be able to..."
+By the end of this session, learners will be able to:
+
+- List the steps of good instructional design.
+- Define cognitive load.
+- Distinguish between bad and good cognitive load.
+- Clarify why we start with learning outcomes.
+- Give examples of effective learning strategies.
+- Connect learning strategies to the cognitive processes they promote.
+- Select appropriate learning outcomes within the learning constraints.
+- Assess your teaching outlook/practices in relation to what you’ve learned.
+- Design learning experiences that align with learning outcomes.
+
 :::
 
 ## Lecture
 
-{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+<iframe src="https://drive.google.com/file/d/1rURIT1KxlEpKMiS6PrnH5tP2Q2QMNwbZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Description of video coming soon
 
 ## Materials
 
+**Course introduction and housekeeping**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+
+<br>
+
+**Module 1 - Principles of Teaching and Learning**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/10GCIRj5xP5Eugoa37kNIJ9x3uLgFneXf/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/10GCIRj5xP5Eugoa37kNIJ9x3uLgFneXf/export/pdf" target="_blank" rel="noopener">Module 1: Download PDF</a>
+
 ## Authors
 
+Jill Jaworski
+
 ## Acknowledgement
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

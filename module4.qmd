@@ -1,14 +1,43 @@
 ---
-title: "Module 4"
-author: "John Doe"
+title: "Module 4 - Assessment and Feedback in Training and Teaching"
+author: "Jill Jaworski"
 date: today
 ---
-
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- List course learning objectives here.
-- These describe concepts the learners should grasp and techniques they should be able to use by the end of the course.
-- You can think of these as completing the phrase "after this course, the participant should be able to..."
+By the end of this session, learners will be able to:
+
+- Describe the differences between assessment and feedback 
+- Understand Nicholl’s 5 Step Model 
+- Describe the differences between summative and formative assessments
+- Understand when different types of summative and formative assessments are most useful to trainings 
+- Describe how feedback can be gathered and reflected upon for instructor growth 
+
+
+
+
 :::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/1UVLQwMXjonI0qghwctB_znQqMLmzV30E/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+## Materials
+
+**Module 4 - Assessment and Feedback in Training and Teaching**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1xbwXKc_L6V5KL2EotD1KaCi0BSRmD1U9/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1xbwXKc_L6V5KL2EotD1KaCi0BSRmD1U9/export/pdf" target="_blank" rel="noopener">Module 4: Download PDF</a>
+
+
+## Authors
+
+Jill Jaworski
+
+## Acknowledgement
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

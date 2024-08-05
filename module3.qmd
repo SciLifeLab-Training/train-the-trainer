@@ -1,13 +1,42 @@
 ---
-title: "Module 3"
-author: "John Doe"
+title: "Module 3 - Training Practices to Enhance Learner Participation and Engagement"
+author: "Jill Jaworski"
 date: today
 ---
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- List course learning objectives here.
-- These describe concepts the learners should grasp and techniques they should be able to use by the end of the course.
-- You can think of these as completing the phrase "after this course, the participant should be able to..."
+By the end of this session, learners will be able to:
+
+- Describe what makes training effective.
+- Describe what makes a trainer effective.
+- Identify strategies that facilitate active, interactive, and collaborative learning.
+- List factors of motivation and demotivation.
+- Evaluate what instructors can do to motivate and avoid demotivating learners.
+
+
+
 :::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/1VhOCwgCd0AAYGEsNuM31aHshr-xa-9JQ/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+## Materials
+
+**Module 3 - Training Practices to Enhance Learner Participation and Engagement**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1m-Otfdsh8_LzstfrCz2xOlO8Xt0hG8Fz/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1m-Otfdsh8_LzstfrCz2xOlO8Xt0hG8Fz/export/pdf" target="_blank" rel="noopener">Module 3: Download PDF</a>
+
+
+## Authors
+
+Jill Jaworski
+
+## Acknowledgement
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

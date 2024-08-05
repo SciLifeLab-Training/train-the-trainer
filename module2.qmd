@@ -1,13 +1,45 @@
 ---
-title: "Module 2"
-author: "John Doe"
+title: "Module 2 - Design and Plan"
+author: "Jill Jaworski"
 date: today
 ---
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- List course learning objectives here.
-- These describe concepts the learners should grasp and techniques they should be able to use by the end of the course.
-- You can think of these as completing the phrase "after this course, the participant should be able to..."
+By the end of this session, learners will be able to:
+
+- Design a mini-training
+  - Write Learning Outcomes (SMARTIE)
+  - Identify target audience
+  - Draw a concept map
+  - Select content
+  - Deliver 
+  - Provide and receive targeted feedback
+- Create a plan from lesson to session
+- Create a plan from session to full course
+
+
 :::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/1782sSVLaOExd8Iu0jyTtYuhxQzGRBNLW/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
+## Materials
+
+**Module 2 - Design and Plan: session, course, materials**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1Y1DEJ7PP0xuXsBp2_95yJyrOYUpX-f6R/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1Y1DEJ7PP0xuXsBp2_95yJyrOYUpX-f6R/export/pdf" target="_blank" rel="noopener">Module 2: Download PDF</a>
+
+
+## Authors
+
+Jill Jaworski
+
+## Acknowledgement
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).
