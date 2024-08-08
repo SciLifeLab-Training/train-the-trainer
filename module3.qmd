@@ -33,10 +33,11 @@ By the end of this session, learners will be able to:
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/1m-Otfdsh8_LzstfrCz2xOlO8Xt0hG8Fz/export/pdf" target="_blank" rel="noopener">Module 3: Download PDF</a>
 
 
-## Authors
+## Contributors
 
-Jill Jaworski
+- Jill Jaworski <a href="https://orcid.org/0009-0006-2607-5256" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-## Acknowledgement
+- Kristen Schroeder <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
 
 This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).
