@@ -23,7 +23,9 @@ By the end of this session, learners will be able to:
 
 ## Lecture
 
-<iframe src="https://drive.google.com/file/d/1rURIT1KxlEpKMiS6PrnH5tP2Q2QMNwbZ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1I53JW5DEjmlq1O1dgQ7gdJlcexpfy6Hg/preview" width="640" height="360" allow="autoplay"></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1aGUzPDoVaBMmAvAoWVic9K-bCdMzBPXI/view?usp=share_link).
 
 
 ## Materials
