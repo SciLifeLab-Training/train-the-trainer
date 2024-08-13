@@ -1,25 +1,56 @@
 ---
-title: "Module 1"
-author: "John Doe"
+title: "Module 1 - Principles of Teaching and Learning"
+author: "Jill Jaworski"
 date: today
 ---
 
 ::: {.callout-tip}
 ### Learning Objectives
 
-- List course learning objectives here.
-- These describe concepts the learners should grasp and techniques they should be able to use by the end of the course.
-- You can think of these as completing the phrase "after this course, the participant should be able to..."
+By the end of this session, learners will be able to:
+
+- List the steps of good instructional design.
+- Define cognitive load.
+- Distinguish between bad and good cognitive load.
+- Clarify why we start with learning outcomes.
+- Give examples of effective learning strategies.
+- Connect learning strategies to the cognitive processes they promote.
+- Select appropriate learning outcomes within the learning constraints.
+- Assess your teaching outlook/practices in relation to what you’ve learned.
+- Design learning experiences that align with learning outcomes.
+
 :::
 
 ## Lecture
 
-{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+<iframe src="https://drive.google.com/file/d/1I53JW5DEjmlq1O1dgQ7gdJlcexpfy6Hg/preview" width="640" height="360" allow="autoplay"></iframe>
 
-Description of video coming soon
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1aGUzPDoVaBMmAvAoWVic9K-bCdMzBPXI/view?usp=share_link).
+
 
 ## Materials
 
-## Authors
+**Course introduction and housekeeping**
 
-## Acknowledgement
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+
+<br>
+
+**Module 1 - Principles of Teaching and Learning**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/10GCIRj5xP5Eugoa37kNIJ9x3uLgFneXf/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/10GCIRj5xP5Eugoa37kNIJ9x3uLgFneXf/export/pdf" target="_blank" rel="noopener">Module 1: Download PDF</a>
+
+## Contributors
+
+- Jill Jaworski <a href="https://orcid.org/0009-0006-2607-5256" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+- Kristen Schroeder <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).
