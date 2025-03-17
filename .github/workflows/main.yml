@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - main
+      - release-*
 
 jobs:
   quarto-render-job:
