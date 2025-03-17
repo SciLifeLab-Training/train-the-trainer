@@ -6,8 +6,14 @@ date: today
 
 In this section, you will find additional resources that may be helpful at different points in the training life cycle. 
 
-:::
+## Resources - A
 
-## Lecture
+Text here 
+
+## Resources - B
+
+Text here 
+
+## Resources - C
 
 Text here 
