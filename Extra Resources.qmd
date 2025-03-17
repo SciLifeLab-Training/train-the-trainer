@@ -6,16 +6,8 @@ date: today
 
 In this section, you will find additional resources that may be helpful at different points in the training life cycle. 
 
-::: {.callout-tip}
-### Resources for XXX
+:::
 
-- ABC
-- DEF
-- GIH
+## Lecture
 
-::: {.callout-tip}
-### Resources for XXX
-
-- ABC
-- DEF
-- GIH
+Text here 
