@@ -5,14 +5,18 @@ date: today
 ---
 In this section, you will find... 
 
-## Heading A: Train the Trainer Mentorship Program 
+## Train the Trainer Mentorship Program 
 
 Text here 
 
-## Heading B: Train the Trainer Podcast
+## Train the Trainer Podcast
 
 Text here 
 
-## Heading C: Train the Trainer Slack Channel 
+## Train the Trainer Slack Channel 
+
+Text here 
+
+ELIXIR-GOBLET Train the Trainer 
 
 Text here 
