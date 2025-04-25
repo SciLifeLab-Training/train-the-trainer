@@ -17,6 +17,6 @@ Text here
 
 Text here 
 
-ELIXIR-GOBLET Train the Trainer 
+## ELIXIR-GOBLET Train the Trainer 
 
 Text here 
