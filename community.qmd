@@ -3,3 +3,16 @@ title: "TtT Community"
 author: "Jill Jaworski, Kristen Schroeder"
 date: today
 ---
+In this section, you will find... 
+
+## Heading A: Train the Trainer Mentorship Program 
+
+Text here 
+
+## Heading B: Train the Trainer Podcast
+
+Text here 
+
+## Heading C: Train the Trainer Slack Channel 
+
+Text here 
