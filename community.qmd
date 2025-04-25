@@ -1,5 +1,5 @@
 ---
-title: "community"
-author: "Jim"
+title: "Community"
+author: "Jill Jaworski, Krsiten Schroeder"
 date: today
 ---
