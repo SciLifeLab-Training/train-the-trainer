@@ -16,6 +16,7 @@ website:
       - module2.qmd
       - module3.qmd
       - module4.qmd
+      - module5.qmd
       - Extra Resources.qmd
       - Community.qmd
   navbar:
