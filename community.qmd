@@ -1,5 +1,5 @@
 ---
-title: "Community"
-author: "Jill Jaworski, Krsiten Schroeder"
+title: "TtT Community"
+author: "Jill Jaworski, Kristen Schroeder"
 date: today
 ---
