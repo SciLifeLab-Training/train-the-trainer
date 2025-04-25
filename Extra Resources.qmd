@@ -6,19 +6,19 @@ date: today
 
 In this section, you will find additional resources that may be helpful at different points in the training life cycle. 
 
-## Resources - Module 1: 
+## Resources - Module 1: Principles of Teaching and Learning
 
 Text here 
 
-## Resources - Module 2: 
+## Resources - Module 2: Design and Plan Courses, Session Materials and more
 
 Text here 
 
-## Resources - Module 3: 
+## Resources - Module 3: Training Practices to Enhance Learner Participation and Engagement
 
 Text here 
 
-## Resources - Module 4: 
+## Resources - Module 4: Assessment and Feedback in Training and Teaching
 
 Text here 
 
