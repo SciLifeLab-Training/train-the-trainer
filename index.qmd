@@ -1,5 +1,5 @@
 ---
-title: "Course announcement"
+title: "Course Announcement"
 author: "Jill Jaworski, Jessica Lindvall, Nina Norgren, Kristen Schroeder & Cat Halthur"
 date: today
 ---
