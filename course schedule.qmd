@@ -13,10 +13,11 @@ date: today
 - Designing 
   - Planning Sessions
 - Delivering 
-  - Be a better presenter and instructor Enhancing Learner Participation and Engagement
+  - Be a better presenter and instructor 
+  - Enhancing Learner Participation and Engagement
 
 ##### **Day 3: Wednesday, April 16 - 09:00-16:30 CET, In-Person in Lund**
 - Evaluating 
   - Assessment and Feedback in Teaching and Learning 
-- Learning Experiences and Mentorship
+- Coaching and Mentorship Practices in STEM
 
