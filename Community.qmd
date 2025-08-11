@@ -1,22 +1,26 @@
 ---
-title: "Community"
+title: "Community of Practice"
 author: "Jill Jaworski, Kristen Schroeder"
 date: today
 ---
-In this section, you will find... 
+In this section, you will find resources, communities, activities and communications, which are all related to Train the Trainer. 
 
-## Train the Trainer Mentorship Program 
+## ELIXIR-GOBLET Train the Trainer 
 
-Text here 
+Train the Trainer is an international iniative, with ELIXIR-GOBLET creating the foundations of the course, the network of Trainers, and it's ongoing activities to upskill instructors and spread best practices in teaching and learning. Orgiginally designed to serve the bioinformatics community of Europe, Train the Trainer as spread to become a tool to upskill STEM professionals across all fields. 
+
+## Train the Trainer Mentorship Program (Sweden)
+
+The SciLifeLab Training Hub is working to create a community of practice of Trainers and those interested in teaching and learning best practices, and to help spread the course to all corners of Sweden. In this way, we can create maximum impact by improving teaching and learning skills of instructors, who can use these skills to create and deliver high quality educational experiences, and so that learners can benefit from optimal instruction. In this way, instructors can apply their skills to all teaching and learning activities thereafter participating in the course or becoming a Trainer themselves, and the strength of instruction becomes consistently high in all teaching and learning activities within Sweden. 
+
+Here you will find information on the Mentorship Program, and the steps needed to become a Trainer. 
+
+## Train the Trainer Slack Channel 
+
+Are you part of SciLifeLab? Are you a course participant, a Trainer, or otherwise interested in teaching and learning? You are encouraged to join the Slack channel dedicated to Train the Trainer communications, which is hosted by SciLifeLab.
 
 ## Train the Trainer Podcast
 
 Text here 
 
-## Train the Trainer Slack Channel 
 
-Text here 
-
-## ELIXIR-GOBLET Train the Trainer 
-
-Text here 
