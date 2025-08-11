@@ -1,5 +1,5 @@
 ---
-title: "Extra Resources"
+title: "Extra Resources from the Course"
 author: "Jill Jaworski and Lena"
 date: today
 ---
