@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: "2504"
+  output-dir: "2603"
 
 website:
   title: "Train the Trainer"
