@@ -10,7 +10,7 @@ date: today
 By the end of this session, learners will be able to:
 
 - List the steps of good instructional design.
-- Define cognitive load.
+- Define cognitive load.0
 - Distinguish between bad and good cognitive load.
 - Clarify why we start with learning outcomes.
 - Give examples of effective learning strategies.
