@@ -1,4 +1,6 @@
 ---
+<img src="img/coursebanner-TtT-26.png" width="800">
+
 title: "Course Announcement - Spring 2026 Train the Trainer"
 author: "Jill Jaworski, Jessica Lindvall, Nina Norgren, Kristen Schroeder & Cat Halthur"
 date: today
