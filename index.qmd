@@ -1,12 +1,10 @@
----
-title: "Course Announcement - Spring 2026 Train the Trainer"
-author: "Jill Jaworski, Jessica Lindvall, Nina Norgren, Kristen Schroeder & Cat Halthur"
-date: today
----
 <img src="img/coursebanner-TtT-26.png" width="700">
 
+author: "Jill Jaworski, Jessica Lindvall, Nina Norgren, Kristen Schroeder & Cat Halthur"
+date: today
+
 <br>
-<a class="nice-button" href="https://forms.gle/t1K5oGVnKmv22b196"> Register
+**<a class="nice-button" href="https://forms.gle/t1K5oGVnKmv22b196"> Register**
 </a>
 
 The Training Hub, along with ELIXIR-Steers, ELIXIR-Sweden and PHENET, are offering a spring iteration of Train the Trainer! This course offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. This course will cover the following topics:
