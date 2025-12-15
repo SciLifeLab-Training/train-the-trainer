@@ -4,7 +4,9 @@ author: "Jill Jaworski, Jessica Lindvall, Nina Norgren, Kristen Schroeder & Cat 
 date: today
 ---
 
-This course offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. This course will cover the following topics:
+<img src="img/coursebanner-TtT-26.png">
+
+The Training Hub, along with ELIXIR-Steers, ELIXIR-Sweden and PHENET, are offering a spring iteration of Train the Trainer! This course offers guidance, ideas and tips for designing training/teaching, development and delivery on training activities, all based on research-driven educational principles. This course will cover the following topics:
 
 - Learning principles and how they apply to training and teaching
 - Design and plan session, course, materials
