@@ -4,6 +4,7 @@ author: "Jill Jaworski"
 date: today
 ---
 
+## Spring 2026 Train the Trainer
 
 ##### **Day 1: Monday, March 16 - 9:30 - 13:30 CET, Online, over Zoom**
 - Introductions
