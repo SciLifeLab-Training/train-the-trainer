@@ -1,7 +1,7 @@
 {
   "title": "Train the Trainer",
   "upload_type": "lesson",
-  "description": "<p>Train the Trainer offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. The course is for anyone who is interested in becoming a trainer or instructor, or in improving their training skills. The course is highly interactive: participants actively contribute to all sessions. It is given by the SciLifeLab Training Hub, and based on the materials of the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/train-the-trainer/\">https://scilifelab-training.github.io/train-the-trainer/</a></p>",
+  "description": "<p>This course offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. It covers learning principles and how they apply to training and teaching; designing and planning sessions, courses and materials; teaching techniques that enhance learner engagement and participation; assessment and feedback; and creating and maintaining engagement. The course is highly interactive, so it is important that you, as a participant, actively contribute to all sessions.</p>\n<p>Training dates: 2024-04-10 – 2024-05-02.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/train-the-trainer/2403/\">https://scilifelab-training.github.io/train-the-trainer/2403/</a></p>",
   "creators": [
     {
       "name": "Jaworski, Jill",
@@ -37,10 +37,11 @@
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
+  "version": "2403",
   "language": "eng",
   "related_identifiers": [
     {
-      "identifier": "https://scilifelab-training.github.io/train-the-trainer/",
+      "identifier": "https://scilifelab-training.github.io/train-the-trainer/2403/",
       "relation": "isSupplementedBy",
       "resource_type": "other"
     }

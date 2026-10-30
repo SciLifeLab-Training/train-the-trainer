@@ -1,96 +1,261 @@
 website:
 
-  # This file controls the landing page: logos, labels, the
-  # "All training instances" banner and the footer.
-  #
-  # The training instances themselves are listed in
-  # data/instances.yml.
+# REQUIRED
+
+# This file contains the information displayed on the
+# overview page of a training website.
+#
+# The comments below describe which sections are included,
+# when they are displayed, and where their content is configured.
 
   # ==================================================
   # Template mode
   # ==================================================
   #
-  # true: this repository is the SciLifeLab Training Webpage Template
-  # itself. The landing page shows the "Want to use this template?"
-  # banner, and CITATION.cff, .zenodo.json and the README describe the
-  # template (from the files in _template/), not this example training.
+  # true: this branch is the template's example training instance
+  # (release-0000). The overview page shows the "Want to use this
+  # template?" banner.
   #
-  # false: this repository is your own training. Set this to false
-  # when you start using the template. The banner disappears, and
-  # CITATION.cff and .zenodo.json describe your training, from
-  # data/course.yml and data/team.yml.
+  # false: this branch is a training instance of your own training.
+  # Set this to false when you create your first training instance:
+  # the banner disappears.
 
   template: false
 
   # ==================================================
-  # Hero
+  # Navbar
   # ==================================================
   #
-  # The top of the landing page. The title and subtitle come from
-  # data/course.yml.
+  # Always displayed.
+  # The training title is read from course.yml.
+
+  # Logos
+  # -----
+  # Add one or more logos to the list below by adding a new 
+  # list item. Do not add empty placeholders for logos that are not used.
   #
-  # Logos: add one or more logos. The logo with "primary: true"
-  # (SciLifeLab) is always shown on the right. The other logos are
-  # shown to its left, in the order of this list.
-  #
-  # For each logo:
-  #   src:     where the file is, for example "img/logos/my-logo.svg"
-  #   alt:     the name of the organisation, read out by screen readers
-  #   height:  optional. The height of the logo in pixels (56 if left
-  #            out). Adjust the heights so that the visible artwork of
-  #            all logos looks about the same size. On smaller screens,
-  #            all logos shrink in proportion.
-  #   primary: optional. true for the one logo that is always shown
-  #            on the right.
+  # SciLifeLab is always displayed on the right. Other logos are displayed to 
+  # its left, in the order in which they appear in this list.
   #
   # For best results, use logos that:
-  #   - are white or designed for use on a dark background;
-  #   - have a transparent background;
-  #   - have little empty space around the visible artwork.
+  #   - Are white or designed for use on a dark background.
+  #   - Have a transparent background, where appropriate.
+  #   - Have minimal empty space around the visible artwork.
+  #   - Preserve their original aspect ratio when resized.
   #
-  # SVG files are preferred because they stay sharp at any size. For
-  # PNG files, use an image at least twice as high as the height you
-  # set here, so it stays sharp on high-resolution screens.
-
-  hero:
+  # SVG files are preferred because they remain sharp at any size.
+  # For raster images (such as PNG), use a sufficiently high-resolution
+  # image. For a displayed height of 46 px, a source height of at least
+  # 92 px is recommended for sharp rendering on high-density screens.
+  #
+  # Adjust the height of each logo independently to make their visible
+  # artwork appear approximately the same height.
+ 
+  navbar:
     logos:
-      - src: "img/logos/scilifelab-neg.png"
+      - src: "img/scilifelab-logo-full-neg.png"
         alt: "SciLifeLab"
-        height: 56
+        height: 46
         primary: true
 
-      # - src: "img/logos/partner-logo.svg"
+      # - src: "img/nbis-neg.png"
       #   alt: "Partner organisation"
-      #   height: 40
+      #   height: 26
+
+
+  # Navigation links are generated from the available pages.
+  #
+  # Overview and Content are always included.
+  # Schedule is included only when schedule.yml contains events.
+  #
+  # The Information dropdown is displayed when at least one of
+  # its links is available. Team and Syllabus are always included.
+  # Preparation, Practicalities, Announcements, Resources and FAQ
+  # are included only when their data file has content to show.
+  # A file that is empty, deleted, or contains only an introduction
+  # leaves the page out of the navbar and the quick links.
+  #
+  # The current page is highlighted automatically.
 
   # ==================================================
-  # Labels
+  # Welcome section
   # ==================================================
   #
-  # Text on the buttons and headings that are created automatically.
+  # Always displayed. The training title is required.
+  # Dates and location are displayed only
+  # when provided in course.yml. 
+  #
+  # The welcome title and text are optional. 
+  # Keep the welcome text concise: briefly explain what the training is
+  # about and what participants will find on the website.
+  #
+  # The image is optional. Store the image file in the img/
+  # directory, and configure its path and alternative text here.
 
-  labels:
-    # Button that links to the current training instance.
-    hero_view_current_label: "Take me to the current instance"
-    # Button that links to the registration of the current instance.
-    # Only shown when the current instance has a registration_url in
-    # data/instances.yml.
-    hero_registration_open_label: "Register now"
-    # Heading of the banner that lists all training instances.
-    instances_band_title: "All training instances"
+  welcome:
+
+    title: "Welcome to Train the Trainer"
+
+    text: >
+      Learn how to design, develop and deliver training, based on
+      research-driven educational principles. On this website, you find
+      the schedule, the syllabus and the materials of each module.
+
 
   # ==================================================
-  # "All training instances" banner
+  # Registration banner
   # ==================================================
   #
-  # The decorative image on the left of the banner.
+  # Not always displayed. 
+  # The registration banner is included on the homepage,
+  # but is displayed only when registration is enabled
+  # and an opening date is provided.
+  #
+  # It is configured to behave in the following manner:
+  # - Before registration opens, it displays the opening date.
+  # - While registration is open, it displays the deadline,
+  #   fee information (if provided), and registration link.
+  # - After registration closes, it either displays a closed
+  #   message or is fully hidden, depending on the value in "after_closing".
+  #
+  # If no closing date is provided, registration remains open
+  # indefinitely after the opening date.
+  #
+  # The banner switches by itself on the opening and closing date,
+  # in the visitor's browser: you don't need to update the website
+  # on those days.
+  #
+  # While registration is open, a URL is required for the
+  # banner to be displayed.
+  #
+  # Dates should use the format YYYY-MM-DD.
 
-  instances_band:
-    image: "img/images/navet-band.png"
+  registration:
+
+    # Set "enabled" to true to show the registration banner.
+    # Set it to false if the training does not have registration
+    # information or if you do not want to show it.
+    enabled: false
+
+    opening_date: ""
+    closing_date: ""
+    after_closing: "closed"
+    url: ""
+
+
+  # ==================================================
+  # 'Next up' section 
+  # ==================================================
+  #
+  # Not always displayed. 
+  # Generated from data/schedule.yml.
+  # Displayed only when the schedule contains events.
+  # If there are no events, the section is omitted.
+
+  # ==================================================
+  # Quick links section
+  # ==================================================
+  #
+  # Always displayed. 
+  # Defines the title, description, icon, and page of the
+  # quick links on the overview page: up to four cards that lead
+  # to the most important pages.
+  #
+  # Content and Syllabus are always included as quick links. The other
+  # pages are included only when their data file contains information:
+  # a page whose data file is empty, contains only an introduction, or
+  # is deleted, gets no quick link (and no link in the navigation bar).
+  #
+  # Below, you can change the title, description and icon of each quick
+  # link. Icons are Bootstrap Icons: https://icons.getbootstrap.com/
+  #
+  # To keep a page out of the quick links, delete its entry below. The
+  # page itself stays in the navigation bar. Content and Syllabus are
+  # always shown, with standard texts if their entry is deleted.
+  #
+  # Quick links are considered in this order:
+  # Content, Syllabus, Schedule, Practicalities, Preparation,
+  # Resources, FAQ.
+  # A maximum of four quick links is displayed.
+
+  pages:
+
+    # Links to training content page.
+    content:
+      title: "Content"
+      description: "Modules, lectures and slides"
+      icon: "folder"
+      href: "content/index.qmd"
+
+    # Links to syllabus page.
+    syllabus:
+      title: "Syllabus"
+      description: "Description, learning outcomes and prerequisites"
+      icon: "journal-text"
+      href: "syllabus.qmd"
+
+    # Links to schedule page.
+    schedule:
+      title: "Schedule"
+      description: "Programme, sessions and timings"
+      icon: "calendar2-event"
+      href: "schedule.qmd"
+
+    # Links to practicalities
+    practicalities:
+      title: "Practicalities"
+      description: "Venue, travel, accommodation and other practical information"
+      icon: "geo-alt"
+      href: "practicalities.qmd"
+
+    # Links to preparation page.
+    preparation:
+      title: "Preparation"
+      description: "What to do and prepare before the training"
+      icon: "clipboard-check"
+      href: "preparation.qmd"
+
+    # Links to resources page.
+    resources:
+      title: "Resources"
+      description: "Further reading, links and useful resources"
+      icon: "bookshelf"
+      href: "resources.qmd"
+
+    # Links to FAQ page
+    faq:
+      title: "FAQ"
+      description: "Answers to frequently asked questions"
+      icon: "question-circle"
+      href: "faq.qmd"
+
+
+  # ==================================================
+  # Announcements section
+  # ==================================================
+  #
+  # Always displayed.
+  # Announcements are configured in data/announcements.yml.
+  # Without announcements (an empty or deleted announcements.yml), the
+  # section shows "No active announcements."
+
+  # ==================================================
+  # Team section
+  # ==================================================
+  #
+  # Always displayed. 
+  # Team information is configured in data/team.yml.
+  #
+  # The homepage preview displays up to two team members:
+  # 1. Training leads are shown first.
+  # 2. Instructors fill any remaining places.
+  # 3. Contributors are not shown in the homepage preview.
 
   # ==================================================
   # Footer
   # ==================================================
+  #
+  # Always displayed.
   #
   # Most of the footer is filled in automatically, so you don't have
   # to write anything twice:
@@ -112,9 +277,42 @@ website:
 
     # The icon that links to your GitHub repository.
     repository:
-      image: "img/logos/github-neg.png"
+      image: "img/github-neg.png"
       alt: "GitHub repository"
 
       # The address of your repository is worked out automatically.
       # Only add it here if that doesn't work, for example:
       # url: "https://github.com/organisation/repository"
+
+
+content:
+# Use this section to define the structure and order of
+# the training content pages navigation.
+#
+# First, decide how to organise your training content.
+# Divide it into modules or other major sections, and
+# create one folder for each section inside the content/
+# directory.
+#
+# Then add one entry below for each folder, in the order
+# you want the sections to appear in the navigation.
+#
+# For each section:
+#
+# - "id" must match the folder name inside content/.
+# - "label" is the short name displayed in the navigation.
+# - "title" is used as the navigation button's tooltip text.
+#
+# For example, an id of "module-1" corresponds to the
+# folder content/module-1/.
+#
+# You can add, remove, rename, or reorder sections to
+# match your training structure. If you rename a section,
+# make sure to update both the folder name and its id here.
+
+
+  sections:
+
+    - id: modules
+      label: "Modules"
+      title: "The modules of the course"

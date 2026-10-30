@@ -1,16 +1,15 @@
 team:
 
-  # This file lists the people behind the training as a whole.
-  # They are shown in the "Founders" and "Contributors" cards on the
-  # landing page, and credited in the README, the citation and the
-  # Zenodo record.
+# REQUIRED 
+
+  # This file contains information about the training team
+  # used throughout the website, including the Team page,
+  # syllabus, and overview page team preview.
   #
-  # The team of one specific training instance (training leads,
-  # instructors) belongs on the release-YYMM branch, in its own
-  # data/team.yml.
+  # Some fields are required and some are optional.
   #
-  # The generator (scripts/generate_landing.py) checks the required
-  # fields and stops the website from rendering if any required
+  # The validator (validators.py) checks the required fields
+  # and stops the website from rendering if any required
   # information is missing.
 
   # ==================================================
@@ -18,75 +17,113 @@ team:
   # ==================================================
 
   # At least one team member is required.
-
+  
   # Required fields for every team member:
     # - given_names (first name or names)
     # - family_names (surname, including e.g. "van der")
     # - roles
     # - affiliation
-
+  
   # Allowed roles:
-    # - Founder: started or is responsible for the training.
-    # - Contributor: contributed materials or expertise.
+    # - Training lead
+    # - Instructor
+    # - Contributor
+  
+  # At least one team member must have:
+    # - course_contact: true
+    # - an email address
+  
+  # Training leads are optional.
+
+  # On the overview page, up to two team members are shown:
+    # 1. Training leads first.
+    # 2. Instructors fill any remaining places.
+    # 3. Contributors are not shown in the homepage preview.
 
   # Optional fields for team members:
-    # - orcid, for example "https://orcid.org/0000-0002-1825-0097"
+    # - job_title
     # - email
-    # - course_contact: set to true for the person to contact about
-    #   the training. They are listed as the contact in CITATION.cff,
-    #   with their email address.
+    # - course_contact
+    # - bio
+    # - orcid
+    # - linkedin
+    # - github
+    # - website
+    # - image
     # - citation_author: set to false to leave this person out of the
-    #   citation and the list of Zenodo authors. They are still shown
-    #   on the landing page. Everyone else is included as an author.
+    #   citation and the Zenodo record. They are still shown on the
+    #   website. Everyone else is included as an author.
+
+
+  # --------------------------------------------------
+  # Page introduction
+  # --------------------------------------------------
+
+  intro: >
+    Train the Trainer is developed and delivered by the SciLifeLab
+    Training Hub, based on the materials of the ELIXIR-GOBLET
+    Train-the-Trainer community.
+
+  # --------------------------------------------------
+  # Team members
+  # --------------------------------------------------
 
   members:
 
     # --------------------------------------------------
-    # Founders
+    # Training leads
     # --------------------------------------------------
 
     - given_names: "Jill"
       family_names: "Jaworski"
       roles:
-        - Founder
+        - Training lead
       affiliation: "SciLifeLab"
-      orcid: "https://orcid.org/0009-0006-2607-5256"
       email: "training@scilifelab.se"
       course_contact: true
-      citation_author: true
+      orcid: "https://orcid.org/0009-0006-2607-5256"
+      image: ""
 
     # --------------------------------------------------
-    # Contributors
+    # Instructors
     # --------------------------------------------------
 
     - given_names: "Kristen"
       family_names: "Schroeder"
       roles:
-        - Contributor
+        - Instructor
       affiliation: "SciLifeLab"
+      course_contact: false
       orcid: "https://orcid.org/0000-0002-6271-4530"
-      citation_author: true
+      image: ""
+
+    # --------------------------------------------------
+    # Contributors
+    # --------------------------------------------------
 
     - given_names: "Jessica"
       family_names: "Lindvall"
       roles:
         - Contributor
       affiliation: "SciLifeLab"
+      course_contact: false
       orcid: ""
-      citation_author: true
+      image: ""
 
     - given_names: "Nina"
       family_names: "Norgren"
       roles:
         - Contributor
       affiliation: "SciLifeLab"
+      course_contact: false
       orcid: ""
-      citation_author: true
+      image: ""
 
     - given_names: "Cat"
       family_names: "Halthur"
       roles:
         - Contributor
       affiliation: "SciLifeLab"
+      course_contact: false
       orcid: ""
-      citation_author: true
+      image: ""

@@ -1,7 +1,0 @@
-:::{.hero__title}
-Train the Trainer
-:::
-
-:::{.hero__subtitle}
-Design, develop and deliver training based on research-driven educational principles.
-:::

@@ -1,0 +1,117 @@
+# OPTIONAL 
+
+# This file contains the schedule of the training: one entry per session,
+# break or other scheduled part. It is shown on the Schedule page, and the
+# next upcoming event is shown in the "Next up" section on the overview
+# page.
+
+# ==================================================
+# Leaving information out
+# ==================================================
+#
+# The schedule is optional. Without events, the Schedule page and the
+# "Next up" section on the overview page are left out.
+#
+# - To remove one event, delete it from its "- title:" line down to its
+#   "content:" line.
+# - To leave out the whole schedule, for example for self-paced training,
+#   delete all events, or empty or delete this file.
+
+events:
+
+  # ==================================================
+  # Event fields
+  # ==================================================
+  #
+  # Every event needs title, type, group, start and end. Do not leave these
+  # empty.
+  #
+  # - title: The event title displayed in the schedule.
+  # - type: The event type, used for its label and styling.
+  # - group: The day or group the event belongs to, e.g. "Day 1".
+  # - start: The event start date and time.
+  # - end: The event end date and time.
+
+  # Every event also has optional fields
+  #
+  # - location: Where the event takes place. Use "" if not applicable.
+  # - people: Names of the people leading or contributing to the event.
+  #   Use [] if no names should be displayed.
+  # - content: Path to a content page associated with the event.
+  #   Leave as "" if the event does not have an associated page.
+
+  #
+  # ==================================================
+  # Dates and times
+  # ==================================================
+  #
+  # Use the format YYYY-MM-DDTHH:MM, using the 24-hour clock.
+  # For example: 2026-09-30T09:00.
+  #
+  # ==================================================
+  # Event types
+  # ==================================================
+  #
+  # The event types below are supported by this template:
+  #
+  # lecture, workshop, practical, discussion, break, welcome, lunch,
+  # presentation, assessment, group-work, exercise, consultation,
+  # quiz, feedback, seminar
+  #
+  # Use the type exactly as written here, including hyphens where applicable.
+  #
+  # ==================================================
+  # Groups
+  # ==================================================
+  #
+  # Use the group field to organise events into days or other sections.
+  # Events with the same group are displayed together on the schedule page. 
+  #
+  # ==================================================
+  # Content links
+  # ==================================================
+  #
+  # To link an event title to a content page, provide the path to its
+  # .qmd file, relative to the root of the website.
+  # For example:
+  # "content/module-1/introduction.qmd"
+  #
+  # The website converts this path to a link to the rendered HTML page.
+  # Leave content as "" if the event does not have an associated page.
+
+
+  - title: "Introductions, and principles of teaching and learning"
+    type: workshop
+    group: "Day 1"
+    start: 2024-04-10T12:30:00
+    end: 2024-04-10T16:30:00
+    location: "Online, over Zoom"
+    people: []
+    content: content/modules/module-1-principles-of-teaching-and-learning.qmd
+
+  - title: "Designing and planning sessions"
+    type: workshop
+    group: "Day 2"
+    start: 2024-04-17T12:30:00
+    end: 2024-04-17T16:30:00
+    location: "Online, over Zoom"
+    people: []
+    content: content/modules/module-2-design-and-plan.qmd
+
+  - title: "Enhancing learner participation and engagement"
+    type: workshop
+    group: "Day 3"
+    start: 2024-04-24T12:30:00
+    end: 2024-04-24T16:30:00
+    location: "Online, over Zoom"
+    people: []
+    content: content/modules/module-3-learner-participation-and-engagement.qmd
+
+  - title: "Assessment and feedback in teaching and learning"
+    type: workshop
+    group: "Day 4"
+    start: 2024-05-02T12:30:00
+    end: 2024-05-02T16:30:00
+    location: "Online, over Zoom"
+    people: []
+    content: content/modules/module-4-assessment-and-feedback.qmd

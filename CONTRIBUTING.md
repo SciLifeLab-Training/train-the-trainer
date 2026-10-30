@@ -1,49 +1,38 @@
 # Contributing
 
 Thank you for helping to improve this training. This guide explains how to
-suggest changes to the landing page, training instance pages and training
-materials.
+suggest changes to the training materials and the training website.
 
-## How this repository is organised
-
-Each part of the training has its own branch:
-
-| Branch | What it contains |
-|---|---|
-| `main` | The landing page: the general information about the training, and links to every training instance |
-| `release-YYMM` | One training instance: the website and materials for one time the training is given. For example, `release-2705` is the training in May 2027 |
-
-Make sure you report problems and make changes on the right branch!
+This branch holds one training instance: the website and materials for one
+time the training is given. The landing page, with the general information
+about the training, is on the `main` branch. See the `CONTRIBUTING.md` on
+`main` for how the repository is organised.
 
 ## Reporting a problem or suggesting an improvement
 
 Open an issue in this repository. Describe what you found or what you would
-like to change, and where:
-
-- for the landing page, say so;
-- for a training instance, give its branch and page, for example
-  `release-2705`, Module 2.
+like to change, and which training instance and page it concerns, for
+example `release-2705`, Module 2.
 
 ## Making a change
 
 1. Fork the repository, or create a branch if you have write access.
-2. Make your change on the branch it concerns: `main` for the landing page,
-   or the `release-YYMM` branch of the training instance.
+2. Make your change on the `release-YYMM` branch of the training instance it
+   concerns.
 3. Preview the website locally with `python scripts/preview.py`, and check
    the result in your browser.
-4. Open a pull request against that same branch, with a short description
-   of the change.
+4. Open a pull request against that `release-YYMM` branch, with a short
+   description of the change.
+
+Changes to the landing page go to `main` instead.
 
 ## What to edit
 
-- **Training information**, such as the title, description, learning
-  outcomes, team and licence: the data files in `data/`. On `main`, these
-  describe the training as a whole; on a `release-YYMM` branch, that one
-  training instance, including its dates and schedule.
-- **Training materials** (`release-YYMM` branches only): the `.qmd` pages
-  in `content/`. They are plain Markdown, so no knowledge of the website
-  code is needed.
-- **Images and logos**: the files in `img/`.
+- **Training materials**: the `.qmd` pages in `content/`. They are plain
+  Markdown, so no knowledge of the website code is needed.
+- **Training information**, such as the description, dates, schedule,
+  learning outcomes, team and licence: the data files in `data/`.
+- **Images, logos and photos**: the files in `img/`.
 - **Layout and styling**: the scripts and the CSS. Changes here affect
   every page, so please describe them clearly in the pull request.
 
@@ -54,15 +43,12 @@ is rendered, so changes to them are lost. Edit the data files instead.
 
 ## Credit
 
-The people behind the training are listed in `data/team.yml`:
-
-- on `main`: the founders and contributors of the training as a whole;
-- on a `release-YYMM` branch: the team of that training instance.
-
-If you contribute and would like to be credited, add yourself to the
-`data/team.yml` of the branch you changed, or ask the team to add you.
+The team of this training instance is listed in `data/team.yml` on this
+branch. If you contribute and would like to be credited, add yourself as a
+`Contributor` in your pull request, or ask a training lead to add you.
 Everyone listed there is included as an author in the citation and in the
-Zenodo record, unless `citation_author: false` is set for them.
+Zenodo record of this training instance, unless `citation_author: false` is
+set for them.
 
 ## Licence
 

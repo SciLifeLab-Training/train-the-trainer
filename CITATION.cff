@@ -3,7 +3,7 @@
 cff-version: 1.2.0
 message: If you use or reuse these training materials, please cite them as below.
 title: Train the Trainer
-abstract: 'Train the Trainer offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. The course is for anyone who is interested in becoming a trainer or instructor, or in improving their training skills. The course is highly interactive: participants actively contribute to all sessions. It is given by the SciLifeLab Training Hub, and based on the materials of the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).'
+abstract: This course offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. It covers learning principles and how they apply to training and teaching; designing and planning sessions, courses and materials; teaching techniques that enhance learner engagement and participation; assessment and feedback; and creating and maintaining engagement. The course is highly interactive, so it is important that you, as a participant, actively contribute to all sessions.
 authors:
 - family-names: Jaworski
   given-names: Jill
@@ -37,5 +37,6 @@ keywords:
 - assessment
 - feedback
 license: CC-BY-4.0
-url: https://scilifelab-training.github.io/train-the-trainer/
+url: https://scilifelab-training.github.io/train-the-trainer/2403/
 repository-code: https://github.com/SciLifeLab-Training/train-the-trainer
+version: '2403'

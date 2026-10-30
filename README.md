@@ -5,25 +5,29 @@
 
 *Design, develop and deliver training based on research-driven educational principles.*
 
-Train the Trainer offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. The course is for anyone who is interested in becoming a trainer or instructor, or in improving their training skills. The course is highly interactive: participants actively contribute to all sessions. It is given by the SciLifeLab Training Hub, and based on the materials of the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).
+This course offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. It covers learning principles and how they apply to training and teaching; designing and planning sessions, courses and materials; teaching techniques that enhance learner engagement and participation; assessment and feedback; and creating and maintaining engagement. The course is highly interactive, so it is important that you, as a participant, actively contribute to all sessions.
 <!-- /generated:header -->
 
 <!-- Write this yourself -->
-
 This repository contains the website and teaching materials of the
-Train the Trainer course of the SciLifeLab Training Hub. The `main`
-branch holds the landing page, which lists all instances of the course.
-Each `release-YYMM` branch holds one instance (one time the course is
-given) and is published as its own website.
-
+Train the Trainer course of the SciLifeLab Training Hub. This branch
+holds one training instance, and is published as its own website. The
+[`main` branch](../../tree/main) holds the
+[landing page](https://scilifelab-training.github.io/train-the-trainer/),
+which lists all instances of the course.
 <!-- End of write this yourself. -->
 
 <!-- generated:course-information -->
 ## Training information
 
-- **Website:** <https://scilifelab-training.github.io/train-the-trainer/>
+- **Website:** <https://scilifelab-training.github.io/train-the-trainer/2403/>
+- **Dates:** 2024-04-10 – 2024-05-02
+- **Duration:** Four half days
+- **Mode:** Online
+- **Location:** Online
 - **Target audience:** Anyone who is interested in becoming a trainer or instructor, or in improving their training skills.
 - **Language:** English
+- **Version:** 2403
 <!-- /generated:course-information -->
 
 <!-- generated:learning-outcomes -->
@@ -39,18 +43,32 @@ After completing this training, participants will be able to:
 - Describe strategies to promote engagement amongst learners
 <!-- /generated:learning-outcomes -->
 
-## Training instances
+## Repository contents
+<!-- Write this yourself: describe the folders that matter for your training. -->
+```
+content/        course materials: the modules
+instructors/    notes for instructors
+data/           training information (team, schedule, ...)
+img/            images used on the website
+```
 
-<!-- Write this yourself: the instances are listed on the landing page.
-     You can also list them here, with a link to each release-YYMM
-     branch and its website. -->
+- `content/`: the course materials, written in Markdown. The recorded
+  lectures and slides are stored on Google Drive, and embedded in the
+  module pages.
+- `instructors/`: notes for instructors teaching this training, such as
+  timing, preparation and teaching notes. Start with
+  [instructors/README.md](instructors/README.md).
+- `data/`: the information shown on the website and used for the
+  citation files, such as the training description, team and schedule.
+- `img/`: logos, photos and other images.
+<!-- End of write this yourself. -->
 
-| Instance | Branch | Website |
-|---|---|---|
-| March 2026, online | [release-2603](../../tree/release-2603) | [2603](https://scilifelab-training.github.io/train-the-trainer/2603/) |
-| April 2025, Lund | [release-2504](../../tree/release-2504) | [2504](https://scilifelab-training.github.io/train-the-trainer/2504/) |
-| April 2024, online | [release-2403](../../tree/release-2403) | [2403](https://scilifelab-training.github.io/train-the-trainer/2403/) |
 
+## Teaching this training instance
+<!-- Write this yourself, or delete this section. -->
+Want to teach this training yourself? The
+[instructor guide](instructors/README.md) describes the timing,
+preparation and setup, with notes for each module.
 <!-- End of write this yourself. -->
 
 <!-- generated:contributors -->
@@ -58,12 +76,13 @@ After completing this training, participants will be able to:
 
 | Name | Role | ORCID | Affiliation |
 |------|------|-------|-------------|
-| Jill Jaworski | Founder | [0009-0006-2607-5256](https://orcid.org/0009-0006-2607-5256) | SciLifeLab |
-| Kristen Schroeder | Contributor | [0000-0002-6271-4530](https://orcid.org/0000-0002-6271-4530) | SciLifeLab |
+| Jill Jaworski | Training lead | [0009-0006-2607-5256](https://orcid.org/0009-0006-2607-5256) | SciLifeLab |
+| Kristen Schroeder | Instructor | [0000-0002-6271-4530](https://orcid.org/0000-0002-6271-4530) | SciLifeLab |
 | Jessica Lindvall | Contributor |  | SciLifeLab |
 | Nina Norgren | Contributor |  | SciLifeLab |
 | Cat Halthur | Contributor |  | SciLifeLab |
 <!-- /generated:contributors -->
+
 
 ## Contributing
 
@@ -71,8 +90,7 @@ After completing this training, participants will be able to:
 
 Found a mistake, or have an idea for improving this training? You're
 welcome to contribute. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
-report a problem or suggest a change, on the landing page or in the
-materials of a training instance.
+report a problem or suggest a change.
 
 <!-- End of write this yourself. -->
 
@@ -81,7 +99,7 @@ materials of a training instance.
 
 If you use these materials, please cite them as:
 
-> Jaworski, J.; Schroeder, K.; Lindvall, J.; Norgren, N.; Halthur, C. Train the Trainer. https://scilifelab-training.github.io/train-the-trainer/
+> Jaworski, J.; Schroeder, K.; Lindvall, J.; Norgren, N.; Halthur, C. Train the Trainer. Version 2403. https://scilifelab-training.github.io/train-the-trainer/2403/
 
 Citation metadata is available in [CITATION.cff](CITATION.cff).
 <!-- /generated:citation -->
@@ -91,6 +109,15 @@ Citation metadata is available in [CITATION.cff](CITATION.cff).
 
 Unless otherwise stated, the training materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <!-- /generated:licence -->
+
+## Related resources
+<!-- Write this yourself, or delete this section. -->
+
+- [SciLifeLab Training Hub](https://www.scilifelab.se/training/)
+- [ELIXIR-GOBLET Train-the-Trainer](https://elixir-europe.org/platforms/training/train-the-trainer)
+
+<!-- End of write this yourself. -->
+
 
 <!-- generated:acknowledgements -->
 <!-- /generated:acknowledgements -->
