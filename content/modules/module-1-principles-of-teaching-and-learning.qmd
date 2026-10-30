@@ -1,0 +1,54 @@
+---
+title: "Module 1: Principles of teaching and learning"
+order: 1
+---
+
+::: {.callout-tip}
+## Learning objectives
+
+By the end of this session, learners will be able to:
+
+- List the steps of good instructional design.
+- Define cognitive load.
+- Distinguish between bad and good cognitive load.
+- Clarify why we start with learning outcomes.
+- Give examples of effective learning strategies.
+- Connect learning strategies to the cognitive processes they promote.
+- Select appropriate learning outcomes within the learning constraints.
+- Assess your teaching outlook/practices in relation to what you’ve learned.
+- Design learning experiences that align with learning outcomes.
+
+:::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/1I53JW5DEjmlq1O1dgQ7gdJlcexpfy6Hg/preview" width="100%" height="400" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1aGUzPDoVaBMmAvAoWVic9K-bCdMzBPXI/view?usp=share_link).
+
+
+## Materials
+
+**Course introduction and housekeeping**
+
+<iframe src="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/preview" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
+
+[Introduction: Download PDF](https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf)
+
+<br>
+
+**Module 1 - Principles of Teaching and Learning**
+
+<iframe src="https://docs.google.com/presentation/d/10GCIRj5xP5Eugoa37kNIJ9x3uLgFneXf/preview" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
+
+[Module 1: Download PDF](https://docs.google.com/presentation/d/10GCIRj5xP5Eugoa37kNIJ9x3uLgFneXf/export/pdf)
+
+## Contributors
+
+- Jill Jaworski ([ORCID](https://orcid.org/0009-0006-2607-5256))
+- Kristen Schroeder ([ORCID](https://orcid.org/0000-0002-6271-4530))
+
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

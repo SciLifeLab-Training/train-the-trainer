@@ -1,0 +1,42 @@
+# This file is generated automatically from the data files in data/. Do not edit it by hand: edit the data files instead.
+# Validate with: cffconvert --validate
+cff-version: 1.2.0
+message: If you use or reuse these training materials, please cite them as below.
+title: Train the Trainer
+abstract: This course offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. It covers learning principles and how they apply to training and teaching; designing and planning sessions, courses and materials; teaching techniques that enhance learner engagement and participation; assessment and feedback; and creating and maintaining engagement. The course is highly interactive, so it is important that you, as a participant, actively contribute to all sessions.
+authors:
+- family-names: Jaworski
+  given-names: Jill
+  affiliation: SciLifeLab
+  orcid: https://orcid.org/0009-0006-2607-5256
+- family-names: Schroeder
+  given-names: Kristen
+  affiliation: SciLifeLab
+  orcid: https://orcid.org/0000-0002-6271-4530
+- family-names: Lindvall
+  given-names: Jessica
+  affiliation: SciLifeLab
+- family-names: Norgren
+  given-names: Nina
+  affiliation: SciLifeLab
+- family-names: Halthur
+  given-names: Cat
+  affiliation: SciLifeLab
+contact:
+- family-names: Jaworski
+  given-names: Jill
+  affiliation: SciLifeLab
+  orcid: https://orcid.org/0009-0006-2607-5256
+  email: training@scilifelab.se
+keywords:
+- Train the Trainer
+- teaching
+- training
+- instructional design
+- learner engagement
+- assessment
+- feedback
+license: CC-BY-4.0
+url: https://scilifelab-training.github.io/train-the-trainer/2504/
+repository-code: https://github.com/SciLifeLab-Training/train-the-trainer
+version: '2504'

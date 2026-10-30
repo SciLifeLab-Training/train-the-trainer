@@ -1,0 +1,20 @@
+---
+title: "Community of practice"
+order: 1
+---
+
+In this section, you will find resources, communities, activities and communications, which are all related to Train the Trainer. 
+
+## ELIXIR-GOBLET Train the Trainer 
+
+[Train the Trainer](https://elixir-europe.org/platforms/training/train-the-trainer) is an international initiative, with ELIXIR-GOBLET creating the foundations of the course, the network of Trainers, and its ongoing activities to upskill instructors and spread best practices in teaching and learning. Originally designed to serve the bioinformatics community of Europe, Train the Trainer has spread to become a tool to upskill STEM professionals across all fields. 
+
+## Train the Trainer Mentorship Program (Sweden)
+
+The SciLifeLab Training Hub is working to create a community of practice of Trainers and those interested in teaching and learning best practices, and to help spread the course to all corners of Sweden. In this way, we can create maximum impact by improving teaching and learning skills of instructors, who can use these skills to create and deliver high quality educational experiences, and so that learners can benefit from optimal instruction. In this way, instructors can apply their skills to all teaching and learning activities thereafter participating in the course or becoming a Trainer themselves, and the strength of instruction becomes consistently high in all teaching and learning activities within Sweden. 
+
+ 
+
+## Train the Trainer Slack Channel 
+
+Are you part of SciLifeLab? Are you a course participant, a Trainer, or otherwise interested in teaching and learning? You are encouraged to join the Slack channel dedicated to Train the Trainer communications, which is hosted by SciLifeLab.

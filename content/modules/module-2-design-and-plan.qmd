@@ -1,0 +1,46 @@
+---
+title: "Module 2: Design and plan"
+order: 2
+---
+
+::: {.callout-tip}
+## Learning objectives
+
+By the end of this session, learners will be able to:
+
+- Design a mini-training
+  - Write Learning Outcomes (SMARTIE)
+  - Identify target audience
+  - Draw a concept map
+  - Select content
+  - Deliver 
+  - Provide and receive targeted feedback
+- Create a plan from lesson to session
+- Create a plan from session to full course
+
+
+:::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/19JHNqFYJxNonTwHPupee4lJ0swczZbkt/preview" width="100%" height="400" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1qoUnzYXbKU7PUkkTIACDJjE5y4l7TY0G/view?usp=sharing).
+
+
+## Materials
+
+**Module 2 - Design and Plan: session, course, materials**
+
+<iframe src="https://docs.google.com/presentation/d/1Y1DEJ7PP0xuXsBp2_95yJyrOYUpX-f6R/preview" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
+[Module 2: Download PDF](https://docs.google.com/presentation/d/1Y1DEJ7PP0xuXsBp2_95yJyrOYUpX-f6R/export/pdf)
+
+
+## Contributors
+
+- Jill Jaworski ([ORCID](https://orcid.org/0009-0006-2607-5256))
+- Kristen Schroeder ([ORCID](https://orcid.org/0000-0002-6271-4530))
+
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

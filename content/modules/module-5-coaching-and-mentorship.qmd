@@ -1,0 +1,6 @@
+---
+title: "Module 5: Coaching and mentorship in STEM"
+order: 5
+---
+
+This module covers coaching and mentorship practices in STEM.

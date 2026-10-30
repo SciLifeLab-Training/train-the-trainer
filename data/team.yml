@@ -1,0 +1,129 @@
+team:
+
+# REQUIRED 
+
+  # This file contains information about the training team
+  # used throughout the website, including the Team page,
+  # syllabus, and overview page team preview.
+  #
+  # Some fields are required and some are optional.
+  #
+  # The validator (validators.py) checks the required fields
+  # and stops the website from rendering if any required
+  # information is missing.
+
+  # ==================================================
+  # Team data rules
+  # ==================================================
+
+  # At least one team member is required.
+  
+  # Required fields for every team member:
+    # - given_names (first name or names)
+    # - family_names (surname, including e.g. "van der")
+    # - roles
+    # - affiliation
+  
+  # Allowed roles:
+    # - Training lead
+    # - Instructor
+    # - Contributor
+  
+  # At least one team member must have:
+    # - course_contact: true
+    # - an email address
+  
+  # Training leads are optional.
+
+  # On the overview page, up to two team members are shown:
+    # 1. Training leads first.
+    # 2. Instructors fill any remaining places.
+    # 3. Contributors are not shown in the homepage preview.
+
+  # Optional fields for team members:
+    # - job_title
+    # - email
+    # - course_contact
+    # - bio
+    # - orcid
+    # - linkedin
+    # - github
+    # - website
+    # - image
+    # - citation_author: set to false to leave this person out of the
+    #   citation and the Zenodo record. They are still shown on the
+    #   website. Everyone else is included as an author.
+
+
+  # --------------------------------------------------
+  # Page introduction
+  # --------------------------------------------------
+
+  intro: >
+    Train the Trainer is developed and delivered by the SciLifeLab
+    Training Hub, based on the materials of the ELIXIR-GOBLET
+    Train-the-Trainer community.
+
+  # --------------------------------------------------
+  # Team members
+  # --------------------------------------------------
+
+  members:
+
+    # --------------------------------------------------
+    # Training leads
+    # --------------------------------------------------
+
+    - given_names: "Jill"
+      family_names: "Jaworski"
+      roles:
+        - Training lead
+      affiliation: "SciLifeLab"
+      email: "training@scilifelab.se"
+      course_contact: true
+      orcid: "https://orcid.org/0009-0006-2607-5256"
+      image: ""
+
+    # --------------------------------------------------
+    # Instructors
+    # --------------------------------------------------
+
+    - given_names: "Kristen"
+      family_names: "Schroeder"
+      roles:
+        - Instructor
+      affiliation: "SciLifeLab"
+      course_contact: false
+      orcid: "https://orcid.org/0000-0002-6271-4530"
+      image: ""
+
+    # --------------------------------------------------
+    # Contributors
+    # --------------------------------------------------
+
+    - given_names: "Jessica"
+      family_names: "Lindvall"
+      roles:
+        - Contributor
+      affiliation: "SciLifeLab"
+      course_contact: false
+      orcid: ""
+      image: ""
+
+    - given_names: "Nina"
+      family_names: "Norgren"
+      roles:
+        - Contributor
+      affiliation: "SciLifeLab"
+      course_contact: false
+      orcid: ""
+      image: ""
+
+    - given_names: "Cat"
+      family_names: "Halthur"
+      roles:
+        - Contributor
+      affiliation: "SciLifeLab"
+      course_contact: false
+      orcid: ""
+      image: ""
