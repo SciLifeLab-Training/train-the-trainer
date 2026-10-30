@@ -1,0 +1,33 @@
+faq:
+
+  intro: >
+    Answers to common questions about Train the Trainer.
+
+  questions:
+
+    - question: "Is this course for me?"
+      answer: >
+        The course is for anyone who is interested in becoming a trainer
+        or instructor, or in improving their training skills. It may be
+        very helpful to you if you have questions like these: How does
+        learning work? How do I make my teaching more engaging and
+        effective? How should I adjust my teaching to different types of
+        learners? How can I assess whether learning is happening? What
+        is the best balance between theory and practice?
+
+    - question: "Does the course cost anything?"
+      answer: >
+        No, there are no fees for this course.
+
+    - question: "How many participants can attend?"
+      answer: >
+        A maximum of 25. If there are more applications, priority is
+        given to applicants from SciLifeLab infrastructures, institutes
+        and organisations across the Nordic research community, and to
+        participants from Nordic ELIXIR nodes.
+
+    - question: "How is the course delivered?"
+      answer: >
+        The course is delivered online over Zoom, with the course pages in
+        Canvas, a learning management system. The course is highly interactive: please take an
+        active part in all sessions.

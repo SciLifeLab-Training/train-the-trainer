@@ -1,0 +1,49 @@
+{
+  "title": "Train the Trainer",
+  "upload_type": "lesson",
+  "description": "<p>The SciLifeLab Training Hub, together with ELIXIR-STEERS, ELIXIR Sweden and PHENET, offers a spring iteration of Train the Trainer. This course offers guidance, ideas and tips for designing, developing and delivering training, all based on research-driven educational principles. It covers learning principles and how they apply to training and teaching; designing and planning sessions, courses and materials; teaching techniques that enhance learner engagement and participation; assessment and feedback; and creating and maintaining engagement. The course is highly interactive, so it is important that you, as a participant, actively contribute to all sessions.</p>\n<p>Training dates: 2026-03-16 – 2026-04-13.</p>\n<p>Training website: <a href=\"https://scilifelab-training.github.io/train-the-trainer/2603/\">https://scilifelab-training.github.io/train-the-trainer/2603/</a></p>",
+  "creators": [
+    {
+      "name": "Jaworski, Jill",
+      "affiliation": "SciLifeLab",
+      "orcid": "0009-0006-2607-5256"
+    },
+    {
+      "name": "Schroeder, Kristen",
+      "affiliation": "SciLifeLab",
+      "orcid": "0000-0002-6271-4530"
+    },
+    {
+      "name": "Lindvall, Jessica",
+      "affiliation": "SciLifeLab"
+    },
+    {
+      "name": "Norgren, Nina",
+      "affiliation": "SciLifeLab"
+    },
+    {
+      "name": "Halthur, Cat",
+      "affiliation": "SciLifeLab"
+    }
+  ],
+  "keywords": [
+    "Train the Trainer",
+    "teaching",
+    "training",
+    "instructional design",
+    "learner engagement",
+    "assessment",
+    "feedback"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "2603",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://scilifelab-training.github.io/train-the-trainer/2603/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

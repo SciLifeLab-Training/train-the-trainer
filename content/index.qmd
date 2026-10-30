@@ -1,0 +1,19 @@
+---
+title: "Course materials"
+---
+
+The course has five modules. Each module page lists its learning
+objectives, and has a recorded lecture with a transcript, and the
+slides.
+
+- [Module 1: Principles of teaching and learning](modules/module-1-principles-of-teaching-and-learning.qmd)
+- [Module 2: Design and plan](modules/module-2-design-and-plan.qmd)
+- [Module 3: Learner participation and engagement](modules/module-3-learner-participation-and-engagement.qmd)
+- [Module 4: Assessment and feedback](modules/module-4-assessment-and-feedback.qmd)
+- [Module 5: Coaching and mentorship in STEM](modules/module-5-coaching-and-mentorship.qmd)
+
+After the course, the [community of practice](community/community-of-practice.qmd)
+helps you keep developing as a trainer.
+
+The course materials are based on those of the
+[ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

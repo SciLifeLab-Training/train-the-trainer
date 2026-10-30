@@ -1,0 +1,43 @@
+---
+title: "Module 3: Learner participation and engagement"
+order: 3
+---
+
+::: {.callout-tip}
+## Learning objectives
+
+By the end of this session, learners will be able to:
+
+- Describe what makes training effective.
+- Describe what makes a trainer effective.
+- Identify strategies that facilitate active, interactive, and collaborative learning.
+- List factors of motivation and demotivation.
+- Evaluate what instructors can do to motivate and avoid demotivating learners.
+
+
+
+:::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/14_csWYAsa-_VWXkkSrTVqT6Bru9uZrtO/preview" width="100%" height="400" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1G7wy8MLnQ605O6znCGjUrePfnzoz77cg/view?usp=sharing).
+
+
+## Materials
+
+**Module 3 - Training Practices to Enhance Learner Participation and Engagement**
+
+<iframe src="https://docs.google.com/presentation/d/1m-Otfdsh8_LzstfrCz2xOlO8Xt0hG8Fz/preview" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
+[Module 3: Download PDF](https://docs.google.com/presentation/d/1m-Otfdsh8_LzstfrCz2xOlO8Xt0hG8Fz/export/pdf)
+
+
+## Contributors
+
+- Jill Jaworski ([ORCID](https://orcid.org/0009-0006-2607-5256))
+- Kristen Schroeder ([ORCID](https://orcid.org/0000-0002-6271-4530))
+
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

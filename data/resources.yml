@@ -1,0 +1,13 @@
+resources:
+
+  intro: >
+    Resources to explore after the course.
+
+  useful_links:
+    - title: "ELIXIR-GOBLET Train-the-Trainer"
+      description: >
+        The international Train-the-Trainer programme that created the
+        foundations of this course, its network of trainers, and its
+        ongoing activities to spread best practices in teaching and
+        learning.
+      url: "https://elixir-europe.org/platforms/training/train-the-trainer"

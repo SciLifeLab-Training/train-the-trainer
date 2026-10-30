@@ -1,0 +1,44 @@
+---
+title: "Module 4: Assessment and feedback"
+order: 4
+---
+
+::: {.callout-tip}
+## Learning objectives
+
+By the end of this session, learners will be able to:
+
+- Describe the differences between assessment and feedback 
+- Understand Nicholl’s 5 Step Model 
+- Describe the differences between summative and formative assessments
+- Understand when different types of summative and formative assessments are most useful to trainings 
+- Describe how feedback can be gathered and reflected upon for instructor growth 
+
+
+
+
+:::
+
+## Lecture
+
+<iframe src="https://drive.google.com/file/d/16UlVhfLGl-XggGeGwZuM2CaWOcwNxF31/preview" width="100%" height="400" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/12bdq9VwoOJ75NsFo0AzRePHA_rQT-1le/view?usp=sharing).
+
+
+## Materials
+
+**Module 4 - Assessment and Feedback in Training and Teaching**
+
+<iframe src="https://docs.google.com/presentation/d/1xbwXKc_L6V5KL2EotD1KaCi0BSRmD1U9/preview" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+
+[Module 4: Download PDF](https://docs.google.com/presentation/d/1xbwXKc_L6V5KL2EotD1KaCi0BSRmD1U9/export/pdf)
+
+
+## Contributors
+
+- Jill Jaworski ([ORCID](https://orcid.org/0009-0006-2607-5256))
+- Kristen Schroeder ([ORCID](https://orcid.org/0000-0002-6271-4530))
+
+
+This course is developed by the [ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).

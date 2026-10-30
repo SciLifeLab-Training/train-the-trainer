@@ -1,0 +1,245 @@
+course:
+
+# REQUIRED 
+
+  # This file contains training instance-specific information used
+  # throughout the website, including the syllabus.
+  #
+  # Some fields are required and some are optional,
+  # depending on the type and format of the training.
+  #
+  # The validator (validators.py) checks the required fields
+  # and stops the website from rendering if any required
+  # information is missing.
+
+  # ==================================================
+  # Required fields
+  # ==================================================
+  # title
+  # description
+  # mode
+  # location
+  # language
+  # target_audience
+  # learning_outcomes
+  # keywords
+  # organizers
+  # contact.email
+  # reuse.licence
+
+  # ==================================================
+  # Optional fields
+  # ==================================================
+  #
+  # The following fields can be omitted when they are not applicable to the training:
+  #
+  # subtitle
+  # start_date
+  # end_date
+  # duration
+  # instruction
+  # credits
+  # expertise_level
+  # prerequisites
+  # examination
+  # content_providers
+  # funding
+  # reuse.licence_url
+  # reuse.licence_id
+  # reuse.doi
+  # reuse.version_doi
+  # reuse.release_date
+  # reuse.version
+  # reuse.website_url
+  # reuse.zenodo_communities
+  # reuse.preferred_citation
+  #
+  # For example:
+  #
+  # - start_date and end_date can be omitted for training
+  #   without fixed dates, such as self-paced training.
+  #
+  # - duration can describe the expected workload for
+  #   self-paced training.
+  #
+  # - prerequisites can be omitted when there are no
+  #   specific prerequisites.
+  #
+  # - examination can be omitted when there is no formal
+  #   examination or assessment.
+
+  # --------------------------------------------------
+  # Identity
+  # --------------------------------------------------
+  #
+  # Basic information about the training.
+
+  title: "Train the Trainer"
+  subtitle: "Design, develop and deliver training based on research-driven educational principles."
+  description: >
+    The SciLifeLab Training Hub, together with ELIXIR-STEERS, ELIXIR
+    Sweden and PHENET, offers a spring iteration of Train the Trainer.
+    This course offers guidance, ideas and tips for designing, developing
+    and delivering training, all based on research-driven educational
+    principles. It covers learning principles and how they apply to
+    training and teaching; designing and planning sessions, courses and
+    materials; teaching techniques that enhance learner engagement and
+    participation; assessment and feedback; and creating and maintaining
+    engagement. The course is highly interactive, so it is important that
+    you, as a participant, actively contribute to all sessions.
+
+  # --------------------------------------------------
+  # Delivery
+  # --------------------------------------------------
+  #
+  # Information about when, where, and how the training
+  # is delivered. Dates must use ISO format: YYYY-MM-DD.
+
+  start_date: "2026-03-16"
+  end_date: "2026-04-13"
+
+  duration: "Four half days"
+  mode: "Online"
+  instruction:
+    - "Interactive online sessions over Zoom"
+    - "Course pages in Canvas"
+
+  # Location is required. For a self-paced or online training,
+  # set location: "Online" instead of leaving it empty
+  location: "Online"
+
+  # The language of the training, e.g. "English" or "Swedish".
+  language: "English"
+
+  # --------------------------------------------------
+  # Educational information
+  # --------------------------------------------------
+  #
+  # Describes who the training is intended for, what
+  # participants need to know beforehand, and what they
+  # should learn from the training.
+  #
+  # There are no prerequisites: anyone is welcome.
+
+  target_audience: >
+    Anyone who is interested in becoming a trainer or instructor, or in
+    improving their training skills.
+
+  learning_outcomes:
+    - "Name learning principles that a good teacher or instructor should have in mind"
+    - "Describe at least three training techniques, drawing on learning principles"
+    - "Design a training session and a course"
+    - "Develop assessment questionnaires"
+    - "Enumerate types of materials needed for each part of a training session or course"
+    - "Describe strategies to promote engagement amongst learners"
+
+  keywords:
+    - "Train the Trainer"
+    - "teaching"
+    - "training"
+    - "instructional design"
+    - "learner engagement"
+    - "assessment"
+    - "feedback"
+
+  # --------------------------------------------------
+  # Administration
+  # --------------------------------------------------
+  #
+  # Organisations responsible for organising the training
+  organizers:
+    - "SciLifeLab Training Hub"
+    - "ELIXIR-STEERS"
+    - "ELIXIR Sweden"
+    - "PHENET"
+
+  # Organisations providing educational content, if applicable.
+  content_providers:
+    - "ELIXIR-GOBLET Train-the-Trainer community"
+
+  # --------------------------------------------------
+  # Contact
+  # --------------------------------------------------
+  #
+  # Main contact address for questions about the training.
+
+  contact:
+    email: "training@scilifelab.se"
+
+  # --------------------------------------------------
+  # Reuse, citation and DOI
+  # --------------------------------------------------
+  #
+  # This section describes how others may reuse and cite
+  # the training materials.
+  #
+  # It is used for the Syllabus page, the README, and the
+  # citation and archiving files that are created
+  # automatically (CITATION.cff and .zenodo.json).
+  #
+  # For a new training, you usually only need to check the
+  # licence. Leave all other fields empty: they are either
+  # filled in automatically, or only added after the
+  # training has been published on Zenodo.
+
+  reuse:
+
+    # Licence
+    # -------
+    # The licence that says how others may reuse the
+    # materials.
+    # "licence" is the name shown on the website, and
+    # "licence_url" is the page that explains the licence.
+    licence: "CC BY 4.0"
+    licence_url: "https://creativecommons.org/licenses/by/4.0/"
+
+    # Leave empty. Only needed if you use an unusual licence:
+    # then enter its short code from https://spdx.org/licenses/
+    licence_id: ""
+
+    # DOIs
+    # ----
+    # A DOI is a permanent link that makes the training
+    # citable. The DOIs are created by Zenodo when you
+    # publish a release of the training (see the README).
+    # Enter them like this: "10.5281/zenodo.1234567"
+    #
+    # doi: the DOI of the training as a whole. It stays the
+    # same for every time the training is given, and always
+    # points to the latest one. Add it after the very first
+    # release, and keep it when you create new instances.
+    doi: ""
+
+    # version_doi: the DOI of this specific instance (this
+    # time the training is given). Add it after publishing
+    # this instance. Empty it again when you copy this
+    # branch to create a new instance.
+    version_doi: ""
+    # release_date: the date this instance was published on
+    # Zenodo, written as YYYY-MM-DD (for example "2025-05-12").
+    # Add it together with version_doi, and empty it again
+    # when you copy this branch to create a new instance.
+    release_date: ""
+
+    # Optional fields
+    # ---------------
+    # Leave these empty unless you need them.
+
+    # The version of this instance. When empty, the year and
+    # month from the branch name are used (e.g. 2505).
+    version: ""
+
+    # The web address of this instance. When empty, it is
+    # worked out automatically. Only needed if the website
+    # uses its own domain name.
+    website_url: ""
+
+    # Zenodo communities the training should be listed in,
+    # for example: ["scilifelab"]
+    zenodo_communities: []
+
+    # How others should cite the training. When empty, a
+    # citation is created automatically from the team
+    # members, year, title, version and DOI. Only fill this
+    # in if you want a different citation.
+    preferred_citation: ""
