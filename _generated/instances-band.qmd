@@ -1,0 +1,9 @@
+::: {.section-title .instances-band__title}
+All training instances
+:::
+
+::: {.instance-grid .instance-grid--band}
+- [March 2026](<./2603/>){.instance-pill .instance-pill--current}
+- [April 2025](<./2504/>){.instance-pill}
+- [April 2024](<./2403/>){.instance-pill}
+:::

@@ -1,0 +1,77 @@
+:::{.cards-grid .cards-grid--top}
+:::{.info-card .info-card--course-content}
+<div class="info-card__header">
+  <span class="info-card__icon" aria-hidden="true">
+    <img src="img/icons/book-stack.svg" alt="" class="info-card__icon-img">
+  </span>
+  <h2 class="info-card__heading">Training content</h2>
+</div>
+
+:::{.card-copy}
+Train the Trainer offers guidance, ideas and tips for designing,
+developing and delivering training, all based on research-driven
+educational principles. The course is for anyone who is interested in
+becoming a trainer or instructor, or in improving their training
+skills.
+
+The course is highly interactive: participants actively contribute to
+all sessions. It is given by the SciLifeLab Training Hub, and based on
+the materials of the
+[ELIXIR-GOBLET Train-the-Trainer community](https://elixir-europe.org/platforms/training/train-the-trainer).
+:::
+:::
+
+:::{.info-card .info-card--learning-outcomes}
+<div class="info-card__header">
+  <span class="info-card__icon" aria-hidden="true">
+    <img src="img/icons/target.svg" alt="" class="info-card__icon-img">
+  </span>
+  <h2 class="info-card__heading">Learning outcomes</h2>
+</div>
+
+:::{.card-copy}
+1. Name learning principles that a good teacher or instructor should have in mind
+2. Describe at least three training techniques, drawing on learning principles
+3. Design a training session and a course
+4. Develop assessment questionnaires
+5. Enumerate types of materials needed for each part of a training session or course
+6. Describe strategies to promote engagement amongst learners
+:::
+:::
+
+:::{.info-card .info-card--keywords}
+<div class="info-card__header">
+  <span class="info-card__icon" aria-hidden="true">
+    <img src="img/icons/tag.svg" alt="" class="info-card__icon-img">
+  </span>
+  <h2 class="info-card__heading">Keywords</h2>
+</div>
+
+:::{.card-copy}
+- Train the Trainer
+- teaching
+- training
+- instructional design
+- learner engagement
+- assessment
+- feedback
+:::
+:::
+
+:::{.info-card .info-card--topics-covered}
+<div class="info-card__header">
+  <span class="info-card__icon" aria-hidden="true">
+    <img src="img/icons/lightbulb.svg" alt="" class="info-card__icon-img">
+  </span>
+  <h2 class="info-card__heading">Topics covered</h2>
+</div>
+
+:::{.card-copy}
+- Principles of teaching and learning
+- Designing and planning sessions, courses and materials
+- Learner participation and engagement
+- Assessment and feedback
+- Coaching and mentorship in STEM
+:::
+:::
+:::
